@@ -12,18 +12,18 @@ W. Chen, X. Zheng*, and X. Lu, “Semi-Supervised Spectral Degradation Constrain
 ### 2. Start
 
 Requirements:
-             
-         Python
 
-         Tensorflow
-
-         Numpy
-		 
-	 Scipy
-		 
-	 Pandas
-		 
-	 Skimage
+	Python
+	
+	Tensorflow
+	
+	Numpy
+	
+	Scipy
+	
+	Pandas
+	
+	Skimage
 
 
 ### 3. Related work
