@@ -19,16 +19,11 @@ Requirements:
 
          Numpy
 		 
-		 Scipy
+	 Scipy
 		 
-		 Pandas
+	 Pandas
 		 
-		 Skimage
-
-1. Build train.txt and test.txt list 
-
-2. Run "python train.py" 
-
+	 Skimage
 
 
 ### 3. Related work
