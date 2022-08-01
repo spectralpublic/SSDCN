@@ -6,7 +6,7 @@
 
 This is the reserch code of the IEEE Geoscience and Remote Sensing Letters 2022 paper.
 
-W. Chen, X. Zheng*, and X. Lu, “Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution” IEEE Geoscience and Remote Sensing Letters, vol. 19, 2022.
+W. Chen, X. Zheng, and X. Lu, "Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution" IEEE Geoscience and Remote Sensing Letters, vol. 19, 2022.
 
 
 ### 2. Start
