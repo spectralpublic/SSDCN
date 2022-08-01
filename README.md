@@ -1,12 +1,12 @@
 # SSDCN
 
-# Pairwise Comparison Network for Remote Sensing Scene Classification
+# Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution
 
 ### 1. Introduction
 
 This is the reserch code of the IEEE Geoscience and Remote Sensing Letters 2022 paper.
 
-W. Chen, X. Zheng*, and X. Lu, “Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution,” IEEE Geoscience and Remote Sensing Letters, vol. 19, 2022.
+W. Chen, X. Zheng*, and X. Lu, “Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution” IEEE Geoscience and Remote Sensing Letters, vol. 19, 2022.
 
 
 ### 2. Start
@@ -14,15 +14,10 @@ W. Chen, X. Zheng*, and X. Lu, “Semi-Supervised Spectral Degradation Constrain
 Requirements:
 
 	  Python
-	
 	  Tensorflow
-	
 	  Numpy
-	
 	  Scipy
-	
 	  Pandas
-	
 	  Skimage
 
 
